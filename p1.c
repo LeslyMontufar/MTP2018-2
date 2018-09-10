@@ -1,4 +1,7 @@
-﻿#include<stdio.h>
+﻿/* P0.c */
+/* Lesly Viviane Montúfar Berrios */
+/* 11811ETE001 */
+#include<stdio.h>
 
 int main(){
 	int est=0,i;
