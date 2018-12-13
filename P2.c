@@ -35,7 +35,7 @@ int toDecimal(int base, char bin[]){
 }
 
 void fromDecimal(int base, int dec, char bits[]){
-  int i, flag=0;
+  int i;
   for(i=maxBits; i>=0; i--){
     bits[i]=dec%base+'0';
     dec/=base;
