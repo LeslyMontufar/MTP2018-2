@@ -1,4 +1,4 @@
-/* P2.c */
+/* P3.c */
 /* Lesly Viviane Montúfar Berrios */
 /* 11811ETE001 */
 #include<stdio.h>
