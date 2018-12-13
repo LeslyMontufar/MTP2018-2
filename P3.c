@@ -4,7 +4,7 @@
 #include<stdio.h>
 
 int main(){
-   int dec, i=0;
+   int dec=0, i=0;
    char bits[256];
    scanf("%s", bits);
    for(;bits[i];i++){
