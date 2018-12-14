@@ -12,6 +12,7 @@ int main(){
        dec=dec*10+(bits[i]-'0');
      }
    }
+   bits[i]=0;
    printf("\"%s\" retorna \"%i\"\n", bits, dec);
    return 0;
 }
